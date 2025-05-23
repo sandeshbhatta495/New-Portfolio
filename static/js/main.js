@@ -167,7 +167,22 @@ const projects = [
 // Certifications Data
 const certifications = [
     
-    {       
+    {  title: "AI for Everyone",
+        organization: "DeepLearning.AI",
+        date: "May 2025",
+        skills: ["Artificial Intelligence (AI)", "AI for Business"],
+        description: "Completed a comprehensive course on AI fundamentals, its applications in business, and ethical considerations."
+    },
+    {
+        title: "Social Media Marketing",
+        organization: "HP LIFE",
+        date: "May 2025",
+        skills: ["Social Media", "Marketing"],
+        description: "Acquired skills in social media marketing strategies, content creation, and audience engagement techniques."
+    },
+    { 
+        
+        
         title: "3D Printing",
         organization: "HP LIFE",
         date: "May 2025",
