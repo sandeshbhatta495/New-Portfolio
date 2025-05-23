@@ -159,7 +159,15 @@ const projects = [
         category: "ai",
         technologies: ["N8n", "Automation"],
         github:  "https://github.com/sandeshbhatta495/"
+    },
+    {
+        title: "Telegram Based AI Agent (N8n)",
+        description: "This works when i will trigger it by Telegram with specific commands then it will work  work as a news fetchers send emails by voice of mine .",
+        category: "ai",
+        technologies: ["N8n", "Automation"],
+        github:  "https://github.com/sandeshbhatta495/"
     }
+
 
 ];
 
