@@ -63,49 +63,49 @@ const projects = [
         title: "Diwali Sales Analysis",
         description: "Explored customer behavior, regional trends, and sales forecasting using Pandas and Seaborn.",
         category: "python",
-        technologies: ["Python", "Pandas", "Seaborn"],
+        technologies: ["Python"," Pandas", " Seaborn"],
         github: "https://github.com/sandeshbhatta495/diwali-sales-analysis"
     },
     {
         title: "School Result Management System",
         description: "GUI-based system for managing student records and results with authentication.",
         category: "python",
-        technologies: ["Python", "Tkinter", "SQLite"],
+        technologies: [" Python", " Tkinter", " SQLite"],
         github: "https://github.com/sandeshbhatta495/school-result-system"
     },
     {
         title: "Modern Smart Agriculture System",
         description: "IoT-based farming solution monitoring soil moisture, weather, and automating irrigation.",
         category: "hardware",
-        technologies: ["Arduino", "C++", "Sensors"],
+        technologies: [" Arduino", " C++", " Sensors"],
         github: "https://github.com/sandeshbhatta495/"
     },
     {
         title: "AI-Powered Chatbot",
         description: "Chatbot using NLP and machine learning for Practice .",
         category: "ai-ml",
-        technologies: ["Python", "TensorFlow"],
+        technologies: [" Python", " TensorFlow"],
         github: "https://github.com/sandeshbhatta495/"
     },
     {
         title: "Portfolio Website",
         description: "Personal portfolio website showcasing projects and skills.",
         category: "web",
-        technologies: ["HTML", "CSS", "JavaScript"],
+        technologies: [" HTML", " CSS", " JavaScript"],
         github: "httpps://github.com/sandeshbhatta495/portfolio"
     },
     {
         title:"Whatsapp chat Automation",
         description: "Automated WhatsApp messaging using Selenium and Python.",
         category: "python",
-        technologies: ["Python", "Selenium"],
+        technologies: [" Python", " Selenium"],
         github:  "https://github.com/sandeshbhatta495/"
     },
     {
         title: "Weather Forecasting App",
         description: "Web app providing weather forecasts using OpenWeatherMap API.",
         category: "web",
-        technologies: ["HTML", "CSS", "JavaScript", "API"],
+        technologies: ["HTML", " CSS", " JavaScript", " APIs"],
         github:"https://github.com/sandeshbhatta495/"
     },
     {
@@ -119,7 +119,7 @@ const projects = [
         title: " Basics Inventory Management System",
         description: "System for managing inventory, tracking stock levels, and generating reports.",
         category: "python",
-        technologies: ["Python", "pandas"],
+        technologies: ["Python", " pandas"],
         category: " Terminal",
         github: "https://github.com/sandeshbhatta495/"
     },
@@ -127,14 +127,14 @@ const projects = [
         title: "Personal AI Agent (N8n)",
         description: "AI agent for automating tasks and workflows using N8n.",
         category: "ai",
-        technologies: ["Nodes component", "N8n"],
+        technologies: [" Nodes component", " N8n"],
         github: "https://github.com/sandeshbhatta495/"
     },
     {
         title: "Mobile Stand(3D Printing)For Phone",
         description: "3D printed mobile stand designed for optimal phone support.",
         category: "hardware",
-        technologies: ["3D Printing", "Fusion 360"],
+        technologies: ["3D Printing", " Fusion 360"],
         github:  "https://github.com/sandeshbhatta495/fusion360"
     },
     {
@@ -149,7 +149,7 @@ const projects = [
         title: "Mechanical Clock (pygame)",
         description: "Mechanical clock project showcasing My skills using python library like pygame and library",
         category: "python",
-        technologies: ["Python", "pygame", "tkinter"],
+        technologies: ["Python", " pygame", " tkinter"],
         github: "https://github.com/sandeshbhatta495/Mechanical-clock"
     },
     {
@@ -157,14 +157,14 @@ const projects = [
         title: "N8n Automation Projects",
         description: "Various automation projects using N8n for task management and workflow automation.",
         category: "ai",
-        technologies: ["N8n", "Automation"],
+        technologies: [" N8n", " Automation"],
         github:  "https://github.com/sandeshbhatta495/"
     },
     {
         title: "Telegram Based AI Agent (N8n)",
         description: "This works when i will trigger it by Telegram with specific commands then it will work  work as a news fetchers send emails by voice of mine .",
         category: "ai",
-        technologies: ["N8n", "Automation"],
+        technologies: [" N8n", " Automation"],
         github:  "https://github.com/sandeshbhatta495/"
     }
 
