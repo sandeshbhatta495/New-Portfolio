@@ -266,6 +266,15 @@ const certifications = [
         date: "Sep 2021",
         skills: ["Disaster Resilience", "Risk Management"],
         description: "Participated in a 4-day training on school disaster preparedness and resilience planning, including emergency response strategies."
+    },
+    {
+        title: "Introduction to Image Generation ",
+        organization : "Google cloud skills boost",
+        date: "May 2025",
+        skills: ["Image Generation", "Generative AI"],  
+        description: "Explored the fundamentals of image generation using generative AI techniques, including GANs and diffusion models."
+        
+
     }
 
 
